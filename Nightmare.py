@@ -1,11 +1,10 @@
 #!/usr/bin/env python3
 """
 BLACKGLASS - Advanced Digital Footprint Reconstruction Framework
-【黑玻璃】- Complete Doxing & Intelligence Suite
+ Complete Doxing & Intelligence Suite
 Version: 4.0-OMEGA - 500+ Sources • Automated Correlation • Professional Grade
 
-Built for: Minthol12's Professor
-Tool #6 in the Arsenal: PhishForge • DeepEye • Hades • iSpyPhone • NIGHTMARE • BLACKGLASS
+Author: Phoenix
 """
 
 import os
